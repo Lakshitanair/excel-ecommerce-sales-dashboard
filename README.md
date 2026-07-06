@@ -10,7 +10,7 @@ The dashboard was built using Pivot Tables, Pivot Charts, Slicers, and Excel for
 
 ## Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
